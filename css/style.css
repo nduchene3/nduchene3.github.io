@@ -1,0 +1,59 @@
+* {max-width: 600px;
+    margin: auto;}
+body {
+  background-color: #313331;
+  align-content: center;
+}
+.logo {
+    margin: 15px 0 0 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+.navMenu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-family: Enriqueta;
+}
+.navMenu a {
+    float: left;
+    display: block;
+    color: 57a58e;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+footer{
+  text-align: center;
+}
+
+h1, h2, h3{
+  color: 57a58e;
+}
+.intro{
+  margin-top: 5px;
+}
+p, ul {
+  color: lightgray;
+  top-margin: 10px;
+}
+
+.newpatform {
+  color: 57a58e;
+}
+
+.conDetails {
+  font-size: 20px;
+}
+
+.contactinfo {
+  color: white;
+}
+
+#map {
+  padding: 20px;
+}
